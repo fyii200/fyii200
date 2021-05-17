@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Fabian SL Yii
-- 👀 I’m interested in visual sciences (myopia and perimetry in particular!)
-- 🌱 I’m currently learning Monte Carlo simulation & AI techniques
+Amateur programmer for now.
+Primary interests are myopia and perimetry.
+Currently working on visual field (VF) power, i.e., how do we assess the detectability of VF change in progressive disease such as glaucoma?
+Also a research assistant @UKM
+Will be working on building predictive models for myopia using AI (don't have the skills yet!) @Edinburgh 
 - 📫 How to reach me: fslyii@hotmail.com / fslyii@ukm.edu.my
 
 <!---
