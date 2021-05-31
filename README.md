@@ -3,7 +3,7 @@
 - Currently working on visual field (VF) power, i.e., how do we assess the detectability of VF change in progressive disease such as glaucoma?
 - Optometry by day, programming at night. 
 - Also a research assistant @UKM
-- Will be developing predictive models for myopia using AI (don't have the skills yet!) @UoEdinburgh 
+- Will be developing predictive models for myopia using AI @UoEdinburgh 
 - 📫 How to reach me: fslyii@hotmail.com / fslyii@ukm.edu.my
 
 <!---
