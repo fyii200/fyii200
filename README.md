@@ -1,5 +1,5 @@
 - Primary interests are myopia and perimetry.
-- Developing AI predictive models for myopia onset, progression and pathologic myopia.
+- Developing artificial intelligence models to predict myopia onset, progression and risk of pathologic myopia from retinal images.
 - 📫 How to reach me: fabian.yii@ed.ac.uk
 
 <!---
