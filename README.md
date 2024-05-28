@@ -1,4 +1,3 @@
-- Primary interests are myopia, pathologic myopia and computer vision.
 - 📫 How to reach me: fabian.yii@ed.ac.uk
 
 <!---
